@@ -52,14 +52,14 @@ body {
 }
 
 .text {
-    margin: 1.35em 0.7em 1.563em;
+    margin: 1.34em 0.7em 1.564em;
 }
 
 .text h1 {
     color: var(--dark-blue);
     font-weight: 700;
     font-size: 1.386rem;
-    margin-bottom: 0.69em;
+    margin-bottom: 0.701em;
 }
 
 .text p {
