@@ -15,4 +15,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@ZauriKhutsishvili](https://www.frontendmentor.io/profile/ZauriKhutsishvili)
+- Frontend Mentor - [@zauri-khutsishvili](https://www.frontendmentor.io/profile/zauri-khutsishvili)
