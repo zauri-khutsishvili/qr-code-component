@@ -37,7 +37,7 @@ html {
     padding: 1.6rem;
     margin: auto 1.875rem;
     background-color: var(--white);
-    box-shadow: 0 2.5rem 2.5rem rgba(0, 0, 0, 0.0476518);
+    box-shadow: 0 2.5rem 2.5rem rgba(0, 0, 0, 0.056);
     border-radius: 2rem;
     overflow: hidden;
 }
