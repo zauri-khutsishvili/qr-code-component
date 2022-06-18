@@ -39,6 +39,7 @@ html {
     background-color: var(--white);
     box-shadow: 0 2.5rem 2.5rem rgba(0, 0, 0, 0.0476518);
     border-radius: 2rem;
+    overflow: hidden;
 }
 
 .card__qr-code {
