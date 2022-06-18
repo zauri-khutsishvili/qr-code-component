@@ -21,7 +21,6 @@ html {
     font-family: Outfit, sans-serif;
     background-color: var(--light-gray);
     box-sizing: border-box;
-    overflow: hidden;
 }
 
 .container {
@@ -68,12 +67,25 @@ html {
     text-align: center;
 }
 
-/*.attribution {
-    font-size: 11px;
+.attribution {
+    position: absolute;
+    bottom: 0;
+    font-size: 1.35rem;
+    color: var(--grayish-blue);
     text-align: center;
     margin-bottom: 1em;
 }
 
 .attribution a {
-    color: hsl(228, 45%, 44%);
-}*/
+    color: var(--dark-blue);
+    transition: .2s;
+    text-decoration: none;
+}
+
+.attribution a:hover {
+    color: var(--grayish-blue);
+}
+
+.attribution a:active {
+    color: #b4b4b4;
+}
