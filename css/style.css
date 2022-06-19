@@ -71,19 +71,19 @@ html {
     position: absolute;
     bottom: 0;
     font-size: 1.35rem;
-    color: var(--grayish-blue);
+    color: hsl(220, 15%, 65%);
     text-align: center;
     margin-bottom: 1em;
 }
 
 .attribution a {
-    color: var(--dark-blue);
+    color: var(--grayish-blue);
     transition: .2s;
     text-decoration: none;
 }
 
 .attribution a:hover {
-    color: var(--grayish-blue);
+    color: var(--dark-blue);
 }
 
 .attribution a:active {
