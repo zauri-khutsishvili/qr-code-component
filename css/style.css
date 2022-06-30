@@ -56,7 +56,7 @@ body {
 }
 
 .card__description {
-    margin: auto 1.6rem;
+    margin: auto 1.62rem auto 1.58rem;
     font-size: 1.54rem;
     color: var(--grayish-blue);
     text-align: center;
