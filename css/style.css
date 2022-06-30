@@ -5,7 +5,7 @@
     --dark-blue: hsl(218, 44%, 22%);
 }
 
-*, *::after, *::before {
+*, *::before, *::after {
     margin: 0;
     padding: 0;
     box-sizing: inherit;
@@ -14,16 +14,17 @@
 html {
     font-size: 10px;
     font-family: Outfit, sans-serif;
-    background-color: var(--light-gray);
     box-sizing: border-box;
-    position: relative;
 }
 
-.container {
+body {
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: var(--light-gray);
+    position: relative;
+    
 }
 
 .card {
@@ -39,6 +40,7 @@ html {
     width: 100%;
     vertical-align: middle;
     border-radius: 1rem;
+    user-select: none;
 }
 
 .card__header {
@@ -56,10 +58,10 @@ html {
 
 .card__description {
     margin: auto 1.6rem;
-    font-size: 1.542rem;
+    font-size: 1.5rem;
     color: var(--grayish-blue);
     text-align: center;
-    letter-spacing: 0.001rem;
+    letter-spacing: 0.01875rem;
 }
 
 .attribution {
