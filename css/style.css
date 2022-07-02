@@ -54,7 +54,6 @@ body {
     font-weight: 700;
     color: var(--dark-blue);
     text-align: center;
-    letter-spacing: 0.001rem;
 }
 
 .card__description {
@@ -62,7 +61,7 @@ body {
     font-size: 1.54rem;
     color: var(--grayish-blue);
     text-align: center;
-    letter-spacing: 0.001rem;
+    letter-spacing: 0.0007em;
 }
 
 .attribution {
