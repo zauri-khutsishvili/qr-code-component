@@ -19,6 +19,7 @@ html {
 
 body {
     height: 100vh;
+    min-height: 60.5rem;
     display: flex;
     justify-content: center;
     align-items: center;
