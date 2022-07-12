@@ -12,8 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- BEM
 
 ## Author
 
-- Frontend Mentor - [@zauri-khutsishvili](https://www.frontendmentor.io/profile/zauri-khutsishvili)
+- Frontend Mentor - [@ZauriKhutsishvili](https://www.frontendmentor.io/profile/ZauriKhutsishvili)
